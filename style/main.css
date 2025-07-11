@@ -29,6 +29,7 @@ header .logo {
     font-family: 'Arial Black', Gadget, sans-serif;
     font-size: 40px;
     margin-left: 5px;
+    cursor: default;
 }
 
 header nav a {
@@ -116,5 +117,39 @@ header nav a:hover {
 }
 
 .carrosel-filmes {
-    margin-top: 15px;
+    margin: 15px 30px 0px;
+}
+
+.logo-footer {
+    width: 30px;
+    height: 30px;
+}
+
+footer {
+    margin-top: 100px;
+    margin-bottom: 15px;
+}
+
+footer .container, footer .container div {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.icones {
+    margin-right: 7px;
+    font-size: 20px;
+    cursor: pointer;
+    color: white;
+}
+
+.footer-info p {
+    font-size: 12px;
+    color: #AAA;
+    margin: 0 10px;
+}
+
+.icones:hover {
+    color: lightgray;
 }
