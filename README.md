@@ -1,10 +1,43 @@
-# interface-netflix
-Réplica da interface da Netflix
+# Interface Netflix
 
-Olá!
-Esse projeto servirá para testar as minhas habilidades de desenvolvimento web na construção de um clone da interface do site da Netflix (com alguns toques pessoais meus).
-Esse também será um dos meus primeiros projetos "completos" aqui no Github, eu já devia ter feito isso há muito tempo hahaha, e hoje eu finalmente vou tirar essa ideia do papel e começar a publicar e criar os meus projetos aqui no Github!!!
+Réplica da interface da Netflix.
 
-Site para visualizar o projeto ativo: [interface-netflix-pearl.vercel.app](https://interface-netflix-pearl.vercel.app/)
+Olá! 👋
 
-Obrigado por visitar o meu repositório.
+Este projeto é um **clone da interface do site da Netflix**, desenvolvido para testar e aprimorar minhas habilidades em desenvolvimento web. Ele marca o início da publicação dos meus projetos "completos" aqui no GitHub, transformando ideias em código ativo.
+
+---
+
+## 🚀 Como Acessar
+
+Você pode visualizar a réplica da interface da Netflix diretamente online:
+
+🔗 [**Acessar Online no Vercel**](https://interface-netflix-pearl.vercel.app/)
+
+Ou, se preferir rodar localmente:
+
+1.  **Clone o Repositório:**
+    ```bash
+    git clone [https://github.com/PauloSouza-Develop/interface-netflix.git](https://github.com/PauloSouza-Develop/interface-netflix.git)
+    ```
+2.  **Navegue até o Diretório:**
+    ```bash
+    cd interface-netflix
+    ```
+3.  **Abra no Navegador:**
+    Abra o arquivo `index.html` no seu navegador.
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+* **HTML5:** Estrutura semântica da interface.
+* **CSS3:** Estilização e layout responsivo.
+* **JavaScript:** Para funcionalidades interativas (ex: carrosséis, menus).
+* **jQuery:** Para manipulação simplificada do DOM e eventos.
+
+---
+
+## 📧 Contato
+
+Seu Nome - [pvds2608@gmail.com](mailto:pvds2608@gmail.com)
