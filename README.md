@@ -12,13 +12,13 @@ Este projeto é um **clone da interface do site da Netflix**, desenvolvido para 
 
 Você pode visualizar a réplica da interface da Netflix diretamente online:
 
-🔗 [**Acessar Online no Vercel**](https://interface-netflix-pearl.vercel.app/)
+🔗 [**Acessar Online**](https://interface-netflix-pearl.vercel.app/)
 
 Ou, se preferir rodar localmente:
 
 1.  **Clone o Repositório:**
     ```bash
-    git clone [https://github.com/PauloSouza-Develop/interface-netflix.git](https://github.com/PauloSouza-Develop/interface-netflix.git)
+    git clone https://github.com/PauloSouza-Develop/interface-netflix.git
     ```
 2.  **Navegue até o Diretório:**
     ```bash
@@ -40,4 +40,4 @@ Ou, se preferir rodar localmente:
 
 ## 📧 Contato
 
-Seu Nome - [pvds2608@gmail.com](mailto:pvds2608@gmail.com)
+Paulo Vinícius de Souza - [pvds2608@gmail.com](mailto:pvds2608@gmail.com)
